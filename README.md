@@ -1,4 +1,4 @@
-<h1 align=center><font size = 5>Red Wine Quality Prediction with Multi-Class Regression</font></h1>
+<h1 align=center><font size = 5>   Red Wine Quality Prediction with Multi-Class Regression</font></h1>
 
 <img  src="https://learn.winecoolerdirect.com/wp-content/uploads/2015/07/red-wine.jpg"  alt="wine">
 
