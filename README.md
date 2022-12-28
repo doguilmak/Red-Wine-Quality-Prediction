@@ -73,13 +73,11 @@ Available at: <a  href="https://www.sciencedirect.com/science/article/abs/pii/S0
 <h2>Notebooks</h2>
 
 <ol>
-	<li>Wine type and quality prediction with <i>artificial neural networks</i> (red and white wines): <a href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/blob/main/wine_ann.ipynb">wine_ann.ipynb</a></li>
-	<li>Wine quality prediction with <i>multiple regression</i> (only red wine): <a href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/blob/main/red_wine_multiple_reg.ipynb">red_wine_multiple_reg.ipynb</a></li>
+	<li><p>Wine type and quality prediction with <i>artificial neural networks</i> (red and white wines): <a href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/blob/main/wine_ann.ipynb">wine_ann.ipynb</a>. You can use the model with loading <a  href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/blob/main/saved_models/my_model.h5">model.h5</a> or you can use the whole model <a  href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/tree/main/saved_models/saved_model">here</a>.</p></li>
+	<li><p>Wine quality prediction with <i>multiple regression</i> (only red wine): <a href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/blob/main/red_wine_multiple_reg.ipynb">red_wine_multiple_reg.ipynb</a>. You can use <a href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/blob/main/saved_models/regr.save">regr.save</a>.</p></li>
 </ol>
 
-You can use the model with loading <a  href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/blob/main/saved_models/my_model.h5">model.h5</a> or you can use the whole model <a  href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/tree/main/saved_models/saved_model">here</a>.</p>
-
-<br>
+<br>https://github.com/doguilmak/Red-Wine-Quality-Prediction/blob/main/saved_models/regr.save
 
 <h2>Contact Me</h2>
 
