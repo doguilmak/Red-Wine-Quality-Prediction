@@ -77,7 +77,7 @@ Available at: <a  href="https://www.sciencedirect.com/science/article/abs/pii/S0
 	<li><p>Wine quality prediction with <i>multiple regression</i> (only red wine): <a href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/blob/main/red_wine_multiple_reg.ipynb">red_wine_multiple_reg.ipynb</a>. You can use <a href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/blob/main/saved_models/regr.save">regr.save</a>.</p></li>
 </ol>
 
-<br>https://github.com/doguilmak/Red-Wine-Quality-Prediction/blob/main/saved_models/regr.save
+<br>
 
 <h2>Contact Me</h2>
 
