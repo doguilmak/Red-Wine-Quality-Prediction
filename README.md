@@ -64,7 +64,8 @@ Available at: <a  href="https://www.sciencedirect.com/science/article/abs/pii/S0
 
 <ul>
 	<li>Understand the Dataset & cleanup (if required).</li>
-	<li>Build regression model to predict quality of the wine (as 0, 1 and 2 classes).</li>
+	<li>Build <i>regression<i> and <i>artificial neural network</i> model to predict quality of the wine (as 0, 1 and 2 classes).</li>
+	<li>Build <i>artificial neural network</i> model to predict type of wine</li>
 </ul> 
 
 <br>
