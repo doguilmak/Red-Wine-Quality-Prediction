@@ -1,4 +1,4 @@
-<h1 align=center><font size = 3>Red Wine Quality Prediction with Multi-Class Regression</font></h1>
+<h1 align=center><font size = 5>Wine Type and Quality Prediction</font></h1>
 
 <img  src="https://learn.winecoolerdirect.com/wp-content/uploads/2015/07/red-wine.jpg"  alt="wine">
 
@@ -8,15 +8,28 @@
 
 <h2>Data Set Information:</h2>
 
-<p>The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine. For more details, consult: <a  href="https://www.vinhoverde.pt/en/">Web Link</a> or the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
+<p>The two datasets are related to red and white variants of the Portuguese <i>"Vinho Verde"</i> wine. For more details, consult: <a  href="https://www.vinhoverde.pt/en/">Web Link</a> or the reference <i>[Cortez et al., 2009]</i>. Due to privacy and logistic issues, only <i>physicochemical</i> (inputs) and <i>sensory</i> (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
 
-These datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are many more normal wines than excellent or poor ones). Outlier detection algorithms could be used to detect the few excellent or poor wines. Also, we are not sure if all input variables are relevant. So it could be interesting to test feature selection methods.</p>
+These datasets can be viewed as <i>classification</i> or <i>regression</i> tasks. The classes are ordered and not balanced (e.g. there are many more normal wines than excellent or poor ones). Outlier detection algorithms could be used to detect the few excellent or poor wines. Also, we are not sure if all input variables are relevant. So it could be interesting to test feature selection methods.</p>
+
+<br> 
+
+<h2>Keywords</h2> 
+
+<ul>
+	<li>Wine</li>
+	<li>Regression</li>
+	<li>Machine Learning</li>
+	<li>Quality Test</li>
+	<li>Artifical Neural Networks</li>
+	<li>Multi-output Model</li>
+</ul> 
 
 <br>
 
 <h2>Attribute Information</h2>
 
-<p>For more information, read [Cortez et al., 2009]. Input variables (based on physicochemical tests):</p>
+<p>For more information, read <i>[Cortez et al., 2009]</i>. Input variables <i>(based on physicochemical tests)</i>:</p>
 
 <ol>
 	<li>fixed acidity</li>
@@ -32,10 +45,6 @@ These datasets can be viewed as classification or regression tasks. The classes 
 	<li>alcohol</li>
 	<li><b>Output variable (based on sensory data): quality (score between 0 and 10)</b></li>
 </ol>
-
-<br>
-
-<h2>Acknowledgements</h2>
 
 <p>This dataset has been referred from <a  href="https://archive.ics.uci.edu/ml/datasets/Wine+Quality">archive.ics.uci.edu</a>.</p>
 
@@ -58,33 +67,18 @@ Available at: <a  href="https://www.sciencedirect.com/science/article/abs/pii/S0
 	<li>Build regression model to predict quality of the wine (as 0, 1 and 2 classes).</li>
 </ul> 
 
-<br> 
-
-<h2>Keywords</h2> 
-
-<ul>
-	<li>Wine</li>
-	<li>Regression</li>
-	<li>Machine Learning</li>
-	<li>Quality Test</li>
-</ul> 
-
 <br>
 
-<h2>How to Run Code</h2>
+<h2>Notebooks</h2>
 
-<p>Before running the code make sure that you have these libraries:</p>
+<ol>
+	<li>Wine type and quality prediction with <i>artificial neural networks</i> (red and white wines): <a href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/blob/main/wine_ann.ipynb">wine_ann.ipynb</a></li>
+	<li>Wine quality prediction with <i>multiple regression</i> (only red wine): <a href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/blob/main/red_wine_multiple_reg.ipynb">red_wine_multiple_reg.ipynb</a></li>
+</ol>
 
-<ul>
-	 <li>pandas</li>
-	 <li>datetime</li>
-	 <li>sklearn</li>
-	 <li>seaborn</li>
-	 <li>numpy</li>
-	 <li>warnings</li>
-	 <li>matplotlib</li>
-	 <li>pickle</li>
-</ul>  
+You can use the model with loading <a  href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/blob/main/saved_models/my_model.h5">model.h5</a> or you can use the whole model <a  href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/tree/main/saved_models/saved_model">here</a>.</p>
+
+<br>
 
 <h2>Contact Me</h2>
 
