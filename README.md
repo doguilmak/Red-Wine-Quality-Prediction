@@ -2,7 +2,7 @@
 
 <img  src="https://learn.winecoolerdirect.com/wp-content/uploads/2015/07/red-wine.jpg"  alt="wine">
 
-<small>Picture Source:<a  href="https://learn.winecoolerdirect.com/red-wine/"> Wine Cooler Direct</a></small>
+<small>Picture Source: <a  href="https://learn.winecoolerdirect.com/red-wine/">Wine Cooler Direct</a></small>
 
 <br>
 
@@ -23,6 +23,9 @@ These datasets can be viewed as <i>classification</i> or <i>regression</i> tasks
 	<li>Quality Test</li>
 	<li>Artifical Neural Networks</li>
 	<li>Multi-output Model</li>
+	<li>K-Nearest Neighbors (K-NN)</li>
+	<li>Decision Tree</li>
+  <li>Grid Search</li>
 </ul> 
 
 <br>
@@ -75,6 +78,7 @@ Available at: <a  href="https://www.sciencedirect.com/science/article/abs/pii/S0
 <ol>
 	<li><p>Wine type and quality prediction with <i>artificial neural networks</i> (red and white wines): <a href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/blob/main/wine_ann.ipynb">wine_ann.ipynb</a>. You can use the model with loading <a  href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/blob/main/saved_models/my_model.h5">model.h5</a> or you can use the whole model <a  href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/tree/main/saved_models/saved_model">here</a>.</p></li>
 	<li><p>Wine quality prediction with <i>multiple regression</i> (only red wine): <a href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/blob/main/red_wine_multiple_reg.ipynb">red_wine_multiple_reg.ipynb</a>. You can use <a href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/blob/main/saved_models/regr.save">regr.save</a>.</p></li>
+	<li>Wine type prediction models made with <i>K-Nearest Neighbors (K-NN)</i> and <i>Decision Tree</i>: <a href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/blob/main/wine_quality_knn_dt.ipynb">wine_quality_knn_dt.ipynb</a>. In addition, you find <i>K-NN</i> trained model as <a href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/blob/main/saved_models/knn_model.sav">knn_model.sav</a> and trained <i>Decision Tree</i> model as <a href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/blob/main/saved_models/dt_model.sav">dt_model.sav</a>.</li>
 </ol>
 
 <br>
