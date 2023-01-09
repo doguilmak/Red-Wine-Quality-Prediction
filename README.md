@@ -63,12 +63,13 @@ Available at: <a  href="https://www.sciencedirect.com/science/article/abs/pii/S0
 
 <br>
 
-<h2>Objective:</h2>
+<h2>Objectives</h2>
 
 <ul>
-	<li>Understand the Dataset & cleanup (if required).</li>
-	<li>Build <i>regression</i> and <i>artificial neural network</i> model to predict quality of the wine (as 0, 1 and 2 classes).</li>
-	<li>Build <i>artificial neural network</i> model to predict type of wine</li>
+	<li>Understand the data set & cleanup (data pre-processing).</li>
+	<li>Build <i>multi-class regression</i>  model to predict quality of the wine (as 0, 1 and 2 classes).  Afterwards, evaluate the model.</li>
+	<li>Build <i>artificial neural network</i> model to predict type of wine. Afterwards, evaluate the <i>artificial neural network</i> model.</li>
+	<li>Build classification models to predict wine type with <i>k-nearest neighbors (K-NN)</i> and <i>decision tree</i>. Afterwards, evaluate the models.</li>
 </ul> 
 
 <br>
